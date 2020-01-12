@@ -1,0 +1,6 @@
+{
+  "install": "./examples/install.sh",
+  "hooks": {
+    "pre-commit" : "./examples/pre-commit.js"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "glone",
+  "version": "0.2.0",
+  "description": "Do something after you clone a repo!",
+  "bin": {
+    "glone": "bin/glone.js"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramesaliyev/glone.git"
+  },
+  "keywords": [
+    "git clone post hook",
+    "git post-clone hook",
+    "run script after git clone"
+  ],
+  "author": "Rameş Aliyev <creator@ramesaliyev.com> (http://ramesaliyev.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramesaliyev/glone/issues"
+  },
+  "homepage": "https://github.com/ramesaliyev/glone#readme"
+}
