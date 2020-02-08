@@ -20,7 +20,7 @@ Built-in features:
 }
 ```
 
-#### Just use `npx glone` instead of `git clone` when you're going to clone this repo.
+#### Just use `npx glone` instead of `git clone` when you're going to clone a repo.
 
     npx glone <repository>
 
